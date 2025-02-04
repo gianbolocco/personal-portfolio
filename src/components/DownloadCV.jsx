@@ -1,6 +1,6 @@
 import React from 'react'
 
-function BotonDescargarCV() {
+function DownloadCV() {
   return (
 
 <div class="relative inline-flex  group">
@@ -16,4 +16,4 @@ function BotonDescargarCV() {
   )
 }
 
-export default BotonDescargarCV
+export default DownloadCV

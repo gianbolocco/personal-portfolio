@@ -1,5 +1,5 @@
 import React from 'react'
-import BotonDescargarCV from './BotonDescargarCV'
+import DownloadCV from './DownloadCV'
 import { useTheme } from '../context/ThemeContext'
 import ThemeToggle from './ThemeToggle'
 
@@ -18,7 +18,7 @@ function Intro() {
               Soy un estudiante de ingeniería en sistemas en la Universidad Tecnológica Nacional, regional Buenos Aires. Lorem ipsum dolor sit, amet consectetur adipisicing elit...
           </p>
 
-          <BotonDescargarCV/>
+          <DownloadCV/>
       </div>    
     </div>
 
