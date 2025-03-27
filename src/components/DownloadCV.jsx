@@ -10,7 +10,7 @@ function DownloadCV() {
     <a
     href="/cv.pdf" // Ruta del archivo en la carpeta public
     download="Mi_CV.pdf"
-    class="relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white transition-all duration-200 bg-gray-900 font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
+    class="relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white transition-all duration-200 bg-gray-950 font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
     >Download CV</a>
 </div>
   )

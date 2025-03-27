@@ -1,19 +1,19 @@
 export default [
     {
-       title: 'Terminal Website',
-       imgUrl: '',
+       title: 'Footlocker ecommerce',
+       imgUrl: "assets/footlocker.png",
        stack: ['HTML', 'CSS', 'JavaScript'],
        link: 'https://fkcodes.com',
     },
     {
-       title: 'Developer Portfolio',
-       imgUrl: '',
+       title: 'Pokedex',
+       imgUrl: 'assets/pokemon.png',
        stack: ['React', 'Tailwind', 'Vite'],
        link: 'https://thehackershideout.com',
     },
     {
-       title: 'AI Nerf Gun',
-       imgUrl: '',
+       title: 'Football quizz',
+       imgUrl: 'assets/quizz.png',
        stack: ['Python', 'C++', 'Robotics'],
        link: 'https://youtu.be/A8eegxL82PI',
     },

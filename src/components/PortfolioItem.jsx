@@ -9,11 +9,10 @@ const PortfolioItem = ({ title, imgUrl, stack, link }) => {
     href={link}
     target="_blank"
     rel="noopener noreferrer"
-    className={`border-2 rounded-md overflow-hidden ${ darkMode ? "border-gray-900 " : "border-white" } transition-all duration-700 ease-in-out`}
+    className={`border-1 rounded-md overflow-hidden ${ darkMode ? "border-gray-900 hover:bg-gray-200" : "border-white hover:bg-gray-700" } transition-all duration-700 ease-in-out`}
     >
         <img
         src={imgUrl}
-        alt="portfolio" 
         className="w-full h-36 md:h-48 object-cover cursor-pointer"
         />
         <div className="w-full p-4">

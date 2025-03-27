@@ -11,7 +11,7 @@ export default function ThemeToggle() {
     >
       {/* Toggle deslizante */}
       <div
-        className={`w-10 h-10 bg-white dark:bg-gray-900 rounded-full transform transition-transform duration-300 ${
+        className={`w-10 h-10 bg-white dark:bg-gray-950 rounded-full transform transition-transform duration-300 ${
           darkMode ? "translate-x-10" : ""
         }`}
       />
